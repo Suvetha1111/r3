@@ -1,9 +1,27 @@
 
-adcghjnkml
 
 
 
 
+
+public class SystemAdministrator {
+
+    Software[] purchaseSoftwares;
+    Employee[] employees;
+    Vendor[] vendors;
+    int vendor amount ;
+    int Software amount ;
+
+    here i have to print the no.of installation of a particular software
+
+.
+
+    
+
+
+
+
+}
 
 
 
